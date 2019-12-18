@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a75fcc6-44f2-4a98-a654-6b9e7a650df6" name="Default Changelist" comment="" />
+    <list default="true" id="8a75fcc6-44f2-4a98-a654-6b9e7a650df6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/burp/BurpExtender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/burp/BurpExtender.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +18,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jinqi" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Upex8gj06Ire2eys63vJb0rz5t" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/burp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -79,11 +90,30 @@
       <option name="presentableId" value="Default" />
       <updated>1576058207495</updated>
       <workItem from="1576058208699" duration="126000" />
-      <workItem from="1576058337281" duration="9409000" />
+      <workItem from="1576058337281" duration="12448000" />
+      <workItem from="1576294613187" duration="7739000" />
+      <workItem from="1576644357256" duration="5378000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commoit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commoit 3" />
   </component>
 </project>
