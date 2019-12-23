@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a75fcc6-44f2-4a98-a654-6b9e7a650df6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/burp/Util.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/burp/BurpExtender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/burp/BurpExtender.java" afterDir="false" />
     </list>
@@ -92,7 +93,8 @@
       <workItem from="1576058208699" duration="126000" />
       <workItem from="1576058337281" duration="12448000" />
       <workItem from="1576294613187" duration="7739000" />
-      <workItem from="1576644357256" duration="5378000" />
+      <workItem from="1576644357256" duration="10327000" />
+      <workItem from="1577065345090" duration="11493000" />
     </task>
     <servers />
   </component>
