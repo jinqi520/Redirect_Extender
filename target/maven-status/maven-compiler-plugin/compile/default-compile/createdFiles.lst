@@ -1,5 +1,6 @@
 burp/IExtensionStateListener.class
 burp/IHttpRequestResponseWithMarkers.class
+burp/Util.class
 burp/IMessageEditorTab.class
 burp/IParameter.class
 burp/IMessageEditorTabFactory.class

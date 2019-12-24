@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a75fcc6-44f2-4a98-a654-6b9e7a650df6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/burp/Util.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/burp/BurpExtender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/burp/BurpExtender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/burp-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/burp-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/burp/BurpExtender$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/burp/BurpExtender$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/burp/BurpExtender$Redirect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/burp/BurpExtender$Redirect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/burp/BurpExtender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/burp/BurpExtender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +100,7 @@
       <workItem from="1576058337281" duration="12448000" />
       <workItem from="1576294613187" duration="7739000" />
       <workItem from="1576644357256" duration="10327000" />
-      <workItem from="1577065345090" duration="11493000" />
+      <workItem from="1577065345090" duration="13328000" />
     </task>
     <servers />
   </component>

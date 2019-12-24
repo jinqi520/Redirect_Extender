@@ -38,5 +38,6 @@
 /Users/liuqingsong/jinqi/burp_extender/Redirect_Extender/src/main/java/burp/IBurpExtender.java
 /Users/liuqingsong/jinqi/burp_extender/Redirect_Extender/src/main/java/burp/IContextMenuInvocation.java
 /Users/liuqingsong/jinqi/burp_extender/Redirect_Extender/src/main/java/burp/IResponseInfo.java
+/Users/liuqingsong/jinqi/burp_extender/Redirect_Extender/src/main/java/burp/Util.java
 /Users/liuqingsong/jinqi/burp_extender/Redirect_Extender/src/main/java/burp/IScannerInsertionPointProvider.java
 /Users/liuqingsong/jinqi/burp_extender/Redirect_Extender/src/main/java/burp/IBurpCollaboratorInteraction.java

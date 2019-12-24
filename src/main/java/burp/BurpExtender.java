@@ -22,6 +22,7 @@ public class BurpExtender implements IBurpExtender, IIntruderPayloadGeneratorFac
     public JScrollPane scrollPane;
     public JTextArea attackStringsTextarea;
     public PrintWriter stout;
+    public int index = 0;
 
     //  当用户没有设置白名单域名 或 payload中不需要使用white doamin时应该直接跳过该条payload
     public static final String White_Domain_Place = "{White_Doamin}";
@@ -185,7 +186,6 @@ public class BurpExtender implements IBurpExtender, IIntruderPayloadGeneratorFac
     // implements IHttpListener
     // 用于处理proxy到的流量
     public void processHttpMessage(int toolFlag, boolean messageIsRequest, IHttpRequestResponse messageInfo) {
-        int index = 0;
         if ((toolFlag == 32) && (!messageIsRequest)) {
             String response = this.helpers.bytesToString(messageInfo.getResponse());
             String dPattern = "Location: (.*)";
